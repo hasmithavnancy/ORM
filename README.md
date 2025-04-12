@@ -1,7 +1,7 @@
 # Ex02 Django ORM Web Application
 ## Name: HASMITHA V NANCY
 ## Register No: 21224040111
-## Date:12-04-2025 
+## Date:12-04-2025
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
